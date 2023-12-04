@@ -36,6 +36,7 @@ public class Projectile{
 		int projectileSpeed = 2;
 		double angle = Math.atan2(dy-sy, dx-sx);
 		
+		//System.out.println("MouseX: " +MouseController.getInstance().getX() +" MOuse Y: " + MouseController.getInstance().getY());
 		this.xVelocity = (float) (projectileSpeed * Math.cos(angle));
 		this.yVelocity = (float) (projectileSpeed * -Math.sin(angle));
 		

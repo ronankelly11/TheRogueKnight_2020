@@ -132,6 +132,7 @@ public class Viewer extends JPanel {
 		int camX = cam.getCamXPos(x);
 		String texture = gameworld.getPlayer().getTexture();
 		AnimationObject animation = gameworld.getPlayer().getCurrentAnimation();
+		System.out.println(Score);
 		if (Score < 200) {
 			mapXOffset = x - mapCurrentXPos;
 			//Draw background 
