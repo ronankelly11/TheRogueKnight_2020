@@ -1,3 +1,4 @@
+package main.java;
 import java.awt.Rectangle;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -5,15 +6,15 @@ import java.util.List;
 import java.util.Random;
 import java.util.concurrent.CopyOnWriteArrayList;
 
-import util.AnimationObject;
-import util.Audio;
-import util.Camera;
-import util.Collision;
-import util.CollisionManager;
-import util.GameObject;
-import util.Point3f;
-import util.Projectile;
-import util.Vector3f; 
+import main.java.util.AnimationObject;
+import main.java.util.Audio;
+import main.java.util.Camera;
+import main.java.util.Collision;
+import main.java.util.CollisionManager;
+import main.java.util.GameObject;
+import main.java.util.Point3f;
+import main.java.util.Projectile;
+import main.java.util.Vector3f; 
 /*
  * Created by Abraham Campbell on 15/01/2020.
  *   Copyright (c) 2020  Abraham Campbell

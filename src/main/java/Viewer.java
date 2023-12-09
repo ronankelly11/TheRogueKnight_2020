@@ -1,3 +1,4 @@
+package main.java;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
@@ -18,9 +19,9 @@ import javax.imageio.ImageIO;
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
-import util.AnimationObject;
-import util.Camera;
-import util.GameObject;
+import main.java.util.AnimationObject;
+import main.java.util.Camera;
+import main.java.util.GameObject;
 
 
 /*

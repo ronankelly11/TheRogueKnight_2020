@@ -1,4 +1,5 @@
-import java.awt.BorderLayout;
+package main.java;
+
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Image;
@@ -15,10 +16,9 @@ import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-import javax.swing.JPanel;
 
-import util.Audio;
-import util.UnitTests;
+import main.java.util.Audio;
+import main.java.util.UnitTests;
 
 /*
  * Created by Abraham Campbell on 15/01/2020.

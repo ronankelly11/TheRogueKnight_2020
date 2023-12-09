@@ -1,4 +1,4 @@
-package util;
+package main.java.util;
 /*
  * Created by Abraham Campbell on 15/01/2020.
  *   Copyright (c) 2020  Abraham Campbell

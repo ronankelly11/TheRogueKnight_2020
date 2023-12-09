@@ -1,4 +1,4 @@
-package util;
+package main.java.util;
 
 public class Camera{
 	private static int worldWidth;

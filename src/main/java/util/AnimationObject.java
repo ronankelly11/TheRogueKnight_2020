@@ -1,4 +1,4 @@
-package util;
+package main.java.util;
 /*
  * This class stores each animation state.
  */
